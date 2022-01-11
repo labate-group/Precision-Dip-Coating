@@ -1,0 +1,93 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "LocalBusiness",
+  "name": "Precision Dip Coating: Plastic Coating Services For Medical, Hand Tools, Military & Aerospace",
+  "legalName": "Precision Dip Coating",
+  "brand": "Precision Dip Coating",
+  "alternateName": "PDC - Precision Dip Coating",
+  "slogan": "Plastic Coating Services For Medical, Hand Tools, Military & Aerospace",
+  "telephone": "203-805-4564",
+  "email": "sales@precisiondipcoating.com",
+
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "reviewCount": "9"
+  },
+
+  "url": "https://www.precisiondipcoating.com/",
+  "logo": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/255fd6fa9ebe-FINALPDCLogos-188w.png",
+  "image": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/20190904-834A2630-320w.jpg",
+  "photo": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/20190904-834A2630-320w.jpg",
+
+  "description": "Precision Dip Coating provides innovative solutions to your coating needs. We offer in-house design and development, value added services, and supply chain solutions that will save you time and money.  Our Plastisol Dip Coating, Fluid Bed Powder Coating, and Halar Coating serve industries from aerospace to medical and everything in between! ",
+
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "176 Chase River Rd.",
+    "addressLocality": "Waterbury",
+    "addressRegion": "CT ",
+    "postalCode": "06704",
+    "addressCountry": "United States"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.5878148",
+    "longitude": "-73.0550737"
+  },
+  "hasMap": "https://www.google.com/maps/place/Precision+Dip+Coating+LLC/@41.5878148,-73.0550737,15z/data=!4m2!3m1!1s0x0:0x3ae0ab5e75f6555a?sa=X&ved=2ahUKEwiQgeG_nqD1AhVb7nMBHahdBSwQ_BJ6BAgpEAU",
+  
+  "openingHours": "Mo, Tu, We, Th 08:00-05:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1 (203) 805-4564",
+    "contactType": "General"
+  },
+  "currenciesAccepted": "USD",
+  "paymentAccepted":"Cash, Credit Card",
+  "priceRange": "$$$",
+
+  "potentialAction": 
+  [
+    {
+      "@type": "CommunicateAction",
+      "actionStatus": "potentialActionStatus",
+      "object": "Call",
+      "name": "Call Precision Dip Coating",
+      "description": "Make a telephone call Precision Dip Coating",
+      "target": {
+        "URL": "tel:+1-203-805-4564"
+      },
+      "mainEntityOfPage": "https://www.precisiondipcoating.com/contact-us",
+      "result": "Has called Precision Dip Coating"
+    },
+    {
+      "@type": "CommunicateAction",
+      "actionStatus": "potentialActionStatus",
+      "object": "Email",
+      "name": "Email the Precision Dip Coating",
+      "description": "Send an email to Precision Dip Coating",
+      "target": {
+        "URL": "mailto:sales@precisiondipcoating.com"
+      },
+      "mainEntityOfPage": "https://www.precisiondipcoating.com/contact-us",
+      "result": "Has emailed the Precision Dip Coating"
+    },
+    {
+      "@type": "CommunicateAction",
+      "actionStatus": "potentialActionStatus",
+      "object": "Request Consultation",
+      "name": "Request Consultation",
+      "description": "Request consultation with Precision Dip Coating",
+      "target": {
+        "httpMethod": "GET",
+        "URL": ""
+      },
+      "mainEntityOfPage": "https://www.precisiondipcoating.com/contact-us",
+      "result": "Has requested a consultation with Precision Dip Coating"
+    }
+  ]
+
+}
+ </script>
