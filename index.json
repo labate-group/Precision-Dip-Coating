@@ -1,7 +1,7 @@
 <script type='application/ld+json'> 
 {
   "@context": "http://www.schema.org",
-  "@type": "LocalBusiness",
+  "@type": "ProfessionalService",
   "name": "Precision Dip Coating: Plastic Coating Services For Medical, Hand Tools, Military & Aerospace",
   "legalName": "Precision Dip Coating",
   "brand": "Precision Dip Coating",
