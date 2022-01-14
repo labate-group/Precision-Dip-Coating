@@ -1,3 +1,4 @@
+<script defer type="application/ld+json">
 {
     "@context": "http://www.schema.org",
     "@type": "ProfessionalService",
@@ -19,9 +20,9 @@
         "reviewCount": "9"
     },
     "url": "https://www.precisiondipcoating.com/",
-    "logo": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/255fd6fa9ebe-FINALPDCLogos-188w.png",
-    "image": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/20190904-834A2630-320w.jpg",
-    "photo": "https://lirp.cdn-website.com/16f44a22/dms3rep/multi/opt/20190904-834A2630-320w.jpg",
+    "logo": "https://labate-io.github.io/Precision-Dip-Coating-JSON-LD-Schema-Markups/images/logo.png",
+    "image": "https://labate-io.github.io/Precision-Dip-Coating-JSON-LD-Schema-Markups/images/outdoor-picture.jpg",
+    "photo": "https://labate-io.github.io/Precision-Dip-Coating-JSON-LD-Schema-Markups/images/outdoor-picture.jpg",
     "description": "Precision Dip Coating provides innovative solutions to your coating needs. We offer in-house design and development, value added services, and supply chain solutions that will save you time and money.\tOur Plastisol Dip Coating, Fluid Bed Powder Coating, and Halar Coating serve industries from aerospace to medical and everything in between! ",
     "address": {
         "@type": "PostalAddress",
@@ -181,3 +182,4 @@
         ]
     }
 }
+</script>
