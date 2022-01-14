@@ -1,4 +1,4 @@
-<script defer type="application/ld+json">
+//<script defer type="application/ld+json">
 	{
 		"@context": "http://www.schema.org",
 		"@type": "ProfessionalService",
@@ -86,14 +86,31 @@
 				"result": "Has requested a consultation with Precision Dip Coating"
 			}
 		],
-		"availableAtOrFrom": {
-			"@type": "PostalAddress",
-			"streetAddress": "176 Chase River Rd.",
-			"addressLocality": "Waterbury",
-			"addressRegion": "CT ",
-			"postalCode": "06704",
-			"addressCountry": "United States"
-		},
+		"areaServed": 
+		[
+			{
+				"@type": "Place",
+				"address": {
+					"@type": "PostalAddress",
+					"addressLocality": "Waterbury",
+					"postalCode": "06704"
+				}
+			},
+			{
+				"@type": "Place",
+				"address": {
+					"@type": "PostalAddress",
+					"addressRegion": "CT "
+				}
+			},
+			{
+				"@type": "Place",
+				"address": {
+					"@type": "PostalAddress",
+					"addressCountry": "United States"
+				}
+			}
+		],
 		"hasOfferCatalog": {
 			"@type": "OfferCatalog",
 			"name": "OUR SERVICES",
@@ -182,4 +199,4 @@
 			]
 		}
 	}
-</script>
+//</script>
