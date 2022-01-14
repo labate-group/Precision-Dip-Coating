@@ -86,13 +86,13 @@
 				"result": "Has requested a consultation with Precision Dip Coating"
 			}
 		],
-		"areaServed": {
-			"@type": "Place",
-			"address": {
-				"@type": "PostalAddress",
-				"addressLocality": "Waterbury",
-				"addressRegion": "CT"
-			}
+		"availableAtOrFrom": {
+			"@type": "PostalAddress",
+			"streetAddress": "176 Chase River Rd.",
+			"addressLocality": "Waterbury",
+			"addressRegion": "CT ",
+			"postalCode": "06704",
+			"addressCountry": "United States"
 		},
 		"hasOfferCatalog": {
 			"@type": "OfferCatalog",
