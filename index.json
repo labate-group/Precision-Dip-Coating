@@ -180,7 +180,7 @@
 		"hasCredential": {
 			"@type": "EducationalOccupationalCredential",
 			"name": "ISO 9001:2015 Certified",
-			"description": "RECISION DIP COATING,LLC is ISO 9001:2015 Certified with American Systems Registrar, LLC, a provider of third-party system registration and accredited by the ANSI National Accreditation Board.",
+			"description": "PRECISION DIP COATING,LLC is ISO 9001:2015 Certified with American Systems Registrar, LLC, a provider of third-party system registration and accredited by the ANSI National Accreditation Board.",
 			"credentialCategory": {
 				"@type": "DefinedTerm",
 				"name": "Certified"
