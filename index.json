@@ -71,19 +71,6 @@
 				},
 				"mainEntityOfPage": "https://www.precisiondipcoating.com/contact-us",
 				"result": "Has emailed the Precision Dip Coating"
-			},
-			{
-				"@type": "CommunicateAction",
-				"actionStatus": "potentialActionStatus",
-				"object": "Request Consultation",
-				"name": "Request Consultation",
-				"description": "Request consultation with Precision Dip Coating",
-				"target": {
-					"httpMethod": "GET",
-					"URL": ""
-				},
-				"mainEntityOfPage": "https://www.precisiondipcoating.com/contact-us",
-				"result": "Has requested a consultation with Precision Dip Coating"
 			}
 		],
 		"areaServed": 
